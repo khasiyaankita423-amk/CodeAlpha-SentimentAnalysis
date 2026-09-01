@@ -1,0 +1,31 @@
+Review,Cleaned_Review,Sentiment_Score,Sentiment
+This product is absolutely amazing and I love it,this product is absolutely amazing and i love it,0.861,Positive
+Very good quality and excellent product,very good quality and excellent product,0.7841,Positive
+I am really happy with this purchase,i am really happy with this purchase,0.6115,Positive
+The product works perfectly,the product works perfectly,0.6369,Positive
+"Amazing experience, highly recommended",amazing experience highly recommended,0.7089,Positive
+Good product for the price,good product for the price,0.4404,Positive
+I really liked this product,i really liked this product,0.4754,Positive
+Excellent quality and fast delivery,excellent quality and fast delivery,0.5719,Positive
+Very satisfied with my purchase,very satisfied with my purchase,0.4754,Positive
+The product is wonderful,the product is wonderful,0.5719,Positive
+"The product is okay, nothing special",the product is okay nothing special,-0.092,Negative
+It is an average product,it is an average product,0.0,Neutral
+The quality is neither good nor bad,the quality is neither good nor bad,-0.5824,Negative
+It works as expected,it works as expected,0.0,Neutral
+The product is fine for basic use,the product is fine for basic use,0.2023,Positive
+Average experience with this product,average experience with this product,0.0,Neutral
+It is acceptable for the price,it is acceptable for the price,0.3182,Positive
+Nothing impressive but it works,nothing impressive but it works,-0.2146,Negative
+The product is decent,the product is decent,0.0,Neutral
+"Not bad, not great",not bad not great,0.6754,Positive
+Very poor quality and disappointing,very poor quality and disappointing,-0.7645,Negative
+I hate this product,i hate this product,-0.5719,Negative
+The product stopped working quickly,the product stopped working quickly,-0.2263,Negative
+Terrible experience,terrible experience,-0.4767,Negative
+Very bad product,very bad product,-0.5849,Negative
+I am extremely disappointed,i am extremely disappointed,-0.5256,Negative
+The quality is horrible,the quality is horrible,-0.5423,Negative
+Waste of money,waste of money,-0.4215,Negative
+The product does not work properly,the product does not work properly,0.0,Neutral
+I would not recommend this product,i would not recommend this product,-0.2755,Negative
